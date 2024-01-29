@@ -1,2 +1,1 @@
-
-![Uploading Dark mode to Light mode.png…]()
+This Next.js project showcases a seamless and interactive dark mode and light mode switcher, providing users with a visually comfortable experience. The application dynamically adapts its color scheme based on user preferences, offering a modern and responsive design. Explore the power of Next.js for building dynamic web applications and enhance user experience with this easy-to-integrate dark/light mode toggle feature. The project's clean code structure makes it an excellent starting point for developers looking to implement similar functionality in their applications. Take advantage of the latest web development trends and create engaging, user-friendly interfaces with this customizable Next.js project.
